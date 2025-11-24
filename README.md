@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -265,5 +264,3 @@ Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tah
 
 <footer>© 2025 SMPN 13 TANGERANG — Semua Hak Dilindungi</footer>
 
-</body>
-</html>
