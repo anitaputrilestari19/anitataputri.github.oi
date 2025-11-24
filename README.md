@@ -194,7 +194,7 @@
     <h2>Visi Sekolah</h2>
     <div class="grid">
     <div class="card">Menjadi organisasi siswa yang inovatif, berwawasan global, serta berkarakter unggul dalam membangun lingkungan sekolah yang harmonis, inspiratif, dan berdaya saing tinggi. </div>
-</section>
+
 
 <section id="misi" class="section">
     <h2>Misi Sekolah</h2>
@@ -248,7 +248,7 @@ Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tah
         <div class="card">Juara 2 KOSN Karate</div>
         <div class="card">Juara 2 FLS2N Gitar</div>
     </div>
-</section>
+
 
 <!-- GURU -->
 <section id="guru" class="section">
@@ -260,4 +260,3 @@ Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tah
         <div class="card"><a class="section-link" href="#">Pak Andi – IPS</a></div>
         <div class="card"><a class="section-link" href="#">Ibu Maya – Bahasa Inggris</a></div>
     </div>
-</section>
