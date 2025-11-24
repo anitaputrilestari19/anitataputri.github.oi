@@ -217,6 +217,7 @@ Dasar Hukum: Keputusan Menteri Pendidikan dan Kebudayaan Nomor 0594/0/1985.
 Status: Negeri.
 Lokasi: Jl. Perintis Kemerdekaan I No.3, Babakan, Kecamatan Tangerang.
 Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tahun 2018). </div>
+    </div>
 </section>
 
 <!-- EKSKUL -->
