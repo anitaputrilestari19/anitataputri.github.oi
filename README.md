@@ -235,7 +235,6 @@ Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tah
         <div class="card">Mading</div>
         <div class="card">Videografi</div>
     </div>
-</section>
 
 <!-- PRESTASI -->
 <section id="prestasi" class="section">
