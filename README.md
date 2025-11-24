@@ -192,6 +192,7 @@
 <!-- VISI MISI -->
 <section id="visi" class="section">
     <h2>Visi Sekolah</h2>
+    <div class="grid">
     <div class="card">Menjadi organisasi siswa yang inovatif, berwawasan global, serta berkarakter unggul dalam membangun lingkungan sekolah yang harmonis, inspiratif, dan berdaya saing tinggi. </div>
 </section>
 
@@ -205,7 +206,7 @@
         <div class="card">Mewujudkan sarana dan prasarana sekolah yang representatif dan ramah lingkungan.</div>
         <div class="card">Membangun hubungan yang harmonis dengan warga sekolah, masyarakat, dan pemerintah</div>
     </div>
-</section>
+
 
 <!-- SEJARAH -->
 <section id="sejarah" class="section">
@@ -217,8 +218,7 @@ Dasar Hukum: Keputusan Menteri Pendidikan dan Kebudayaan Nomor 0594/0/1985.
 Status: Negeri.
 Lokasi: Jl. Perintis Kemerdekaan I No.3, Babakan, Kecamatan Tangerang.
 Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tahun 2018). </div>
-    </div>
-</section>
+
 
 <!-- EKSKUL -->
 <section id="ekskul" class="section">
@@ -262,6 +262,3 @@ Akreditasi: A (nilai 96 dari Badan Akreditasi Nasional Sekolah/Madrasah pada tah
         <div class="card"><a class="section-link" href="#">Ibu Maya – Bahasa Inggris</a></div>
     </div>
 </section>
-
-<footer>© 2025 SMPN 13 TANGERANG — Semua Hak Dilindungi</footer>
-
